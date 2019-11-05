@@ -10,4 +10,5 @@
 - open as many terminal windows as you like and `nc localhost 9000` and watch Proof of Stake in action!
 
 Based on proof-of-luck as researched by:
-Milutinovic, Mitar et al. "Proof of Luck: An Efficient Blockchain Consensus Protocol." Proceedings of the 1st Workshop on System Software for Trusted Execution. ACM,
+Milutinovic, M., He, W., Wu, H., & Kanwal, M. (2016). Proof of Luck: An Efficient Blockchain Consensus Protocol. In Proceedings of the 1st Workshop on System Software for Trusted Execution (pp. 2:1–2:6). ACM.
+
